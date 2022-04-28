@@ -1,0 +1,13 @@
+.banner{
+background-color:orange;
+width:15000px;
+height:150px;
+margin-bottom:50px;
+}
+
+.banner-text{
+top:45px;
+left:670px;
+position:absolute;
+transform:transform;
+}
